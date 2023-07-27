@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.09" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="741l2jvDvkPMFr92aB9V8g==" exportKeySalt="ef9c68b6-f889-4680-9af6-4879791bdc9d" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="3ivDbgcJsoUn/T524q2IJg==" exportKeySalt="d6ead940-24a5-4dc3-b39c-b78ae6abbe15" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTable">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FileDecSep" type="java.lang.String">null</Field>
@@ -20,7 +20,7 @@
 	<Field name="HiveBuckets" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="HiveLocation" type="java.lang.String">null</Field>
 	<Field name="HiveRowFormat" type="java.lang.String">null</Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
 	<Field name="IndErrDel" type="java.lang.String">null</Field>
 	<Field name="IndFilePosAuto" type="java.lang.String">null</Field>
 	<Field name="IndHiveManaged" type="java.lang.String">null</Field>
@@ -267,14 +267,14 @@
 	<Field name="IndWsInsert" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsSelect" type="java.lang.String"><![CDATA[1]]></Field>
 	<Field name="IndWsUpdate" type="java.lang.String"><![CDATA[1]]></Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[82]]></Field>
 	<Field name="ISrcCol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
 	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[31]]></Field>
 	<Field name="ITxtColDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2023-07-27 15:20:05.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2023-07-27 15:48:19.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
-	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
 	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
 	<Field name="RecCodeList" type="java.lang.String">null</Field>
 	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
